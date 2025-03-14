@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Shashtra</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy</h1>
+    <p><strong>Last updated: March 14, 2025</strong></p>
+
+    <p>Welcome to <strong>Shashtra</strong> ("we," "our," or "us"). We value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application Shashtra.</p>
+
+    <h2>1. Information We Collect</h2>
+    <h3>1.1 Personal Information</h3>
+    <p>We may collect personal information, including:</p>
+    <ul>
+        <li>Name, email address, and phone number (if provided).</li>
+        <li>Account credentials (if required for authentication).</li>
+    </ul>
+
+    <h3>1.2 Non-Personal Information</h3>
+    <p>We may automatically collect non-personal data, including:</p>
+    <ul>
+        <li>Device type, operating system, and app version.</li>
+        <li>App usage data such as interactions and preferences.</li>
+        <li>Approximate location (only if necessary for app functionality).</li>
+    </ul>
+
+    <h3>1.3 Data from Third-Party Services</h3>
+    <p>If you log in using Google, Firebase, or other third-party services, we may collect data as per their privacy policies.</p>
+
+    <h2>2. How We Use Your Information</h2>
+    <p>We use the collected data to:</p>
+    <ul>
+        <li>Provide and improve app functionality.</li>
+        <li>Analyze user behavior to enhance user experience.</li>
+        <li>Maintain app security and prevent fraud.</li>
+        <li>Comply with legal requirements.</li>
+    </ul>
+
+    <h2>3. Data Sharing & Security</h2>
+    <p>We do not sell, rent, or share your personal data with third parties.</p>
+    <p>We implement appropriate security measures to protect your data from unauthorized access.</p>
+
+    <h2>4. Third-Party Services</h2>
+    <p>Our app may use third-party services such as Google Analytics, Firebase, and Payment Gateways. These services have their own privacy policies. We encourage you to review their policies for more information.</p>
+
+    <h2>5. Data Retention & User Rights</h2>
+    <p>Your data is stored as long as needed for the app’s functionality.</p>
+    <p>You can request data deletion by contacting us.</p>
+
+    <h2>6. Children’s Privacy</h2>
+    <p><strong>Shashtra</strong> is not intended for children under 13. We do not knowingly collect personal data from children.</p>
+
+    <h2>7. Changes to This Privacy Policy</h2>
+    <p>We may update this Privacy Policy periodically. Changes will be posted within the app or on our website. Please review it regularly.</p>
+
+    <h2>8. Contact Us</h2>
+    <p>If you have any questions or concerns about this Privacy Policy, you can contact us at:</p>
+    <p>📧 Email: <a href="mailto:shastraapp@gmail.com">shastraapp@gmail.com</a></p>
+
+</body>
+</html>
